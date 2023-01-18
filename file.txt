@@ -1,4 +1,0 @@
-name1 Pavel
-777 password
-adminadmin hard_pASS
-useruser E3_PaSs
